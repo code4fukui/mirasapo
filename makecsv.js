@@ -13,4 +13,3 @@ for (const d of items) {
 }
 items.sort((a, b) => -a.publish_date.localeCompare(b.publish_date));
 await Deno.writeTextFile("supports.csv", CSV.stringify(items));
-

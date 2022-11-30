@@ -1,6 +1,6 @@
-# mirasapo
- 
-https://code4fukui.github.io/mirasapo/
+# mirasapo - ミラサポplus制度ナビで公開されている支援制度
+
+- https://code4fukui.github.io/mirasapo/
 
 ## Usage
 

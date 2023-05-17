@@ -1,5 +1,5 @@
 ﻿id,mng_groups,catalogs,publish_date,unpublish_date,language,update_info,has_case_studies,title,subtitle,competent_authorities,number,business_scales,target,application_target,prefectures,area,summary,body,usage,reception_start_date,reception_end_date,reception_remarks,related_supports,refernece,support_organization,inquiry,industry_categories,stage_categories,service_categories,purpose_categories,life_stage_categories,personal_service_categories,personal_purpose_categories,disasters,keywords,special_measure,application_url,governing_law,max_employees_count,base_id,base_number,base_title,base_override
-2802,"[""897ae28e-7bc4-484f-bc3d-9386880d6f7d""]",[],2023-05-17,2023-12-15,日本語,"{""created_at"":""2023-04-24T09:01:48Z"",""last_modified_at"":""2023-05-15T08:47:48Z""}","false",【埼玉県】民間施設の緑化に補助金を使用しませんか,都市の緑を増やす取組の一つとして、建物の屋上や壁面などの緑化に対する助成を行っています,"[{""id"":""54"",""name"":""埼玉県"",""code"":""11"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:07:10Z"",""last_modified_at"":""2020-06-25T07:07:10Z""}}]",11-0000-2778,"[""1"",""2"",""3"",""4""]","民間施設の所有者など
+2802,"[""897ae28e-7bc4-484f-bc3d-9386880d6f7d""]",[],2023-05-16,2023-12-15,日本語,"{""created_at"":""2023-04-24T09:01:48Z"",""last_modified_at"":""2023-05-16T07:16:09Z""}","false",【埼玉県】民間施設の緑化に補助金を使用しませんか,都市の緑を増やす取組の一つとして、建物の屋上や壁面などの緑化に対する助成を行っています,"[{""id"":""54"",""name"":""埼玉県"",""code"":""11"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:07:10Z"",""last_modified_at"":""2020-06-25T07:07:10Z""}}]",11-0000-2778,"[""1"",""2"",""3"",""4""]","民間施設の所有者など
 *  緑化面積の合計が、法令等で定める緑化基準の範囲よりも 100平方メートルを超えるものが対象となります。
 *   令和5年度中に工事及び工事代金の支払が完了する事業が対象となります。
 *   既に緑化工事に着手している事業は対象になりません。
@@ -31,6 +31,28 @@
 ",2023-04-01,2023-12-15,予算額に達し次第、募集を終了します。,"[{""title"":""緑化計画届出制度"",""url"":""https://www.pref.saitama.lg.jp/a0508/ryokukakeikakusyo.html""}]","埼玉県環境部みどり自然課ウェブサイト
 https://www.pref.saitama.lg.jp/a0508/midorisaisei-top/minkanhojyo.html",埼玉県環境部みどり自然課,"電話： 048-830-3194
 FAX： 048-830-4775","[{""id"":""4"",""name"":""建設業"",""number"":""D"",""sub_categories"":[]}]","[{""id"":""1"",""name"":""事業計画"",""remarks"":""創業期""},{""id"":""6"",""name"":""事業計画・経営企画"",""remarks"":""成長期・成熟期""},{""id"":""7"",""name"":""設備投資"",""remarks"":""成長期・成熟期""},{""id"":""13"",""name"":""環境・省エネ"",""remarks"":""成長期・成熟期""},{""id"":""14"",""name"":""事業再生"",""remarks"":""転換期""},{""id"":""17"",""name"":""商業・地域・団体支援"",""remarks"":""商業・地域・団体支援""}]","[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]","[{""id"":""2"",""name"":""設備投資""}]",[],[],[],[],"[""緑化"",""工事"",""緑化補助"",""民間施設"",""埼玉県""]",,,,,,,,
+2804,"[""897ae28e-7bc4-484f-bc3d-9386880d6f7d""]",[],2023-05-16,2024-01-31,日本語,"{""created_at"":""2023-05-15T08:41:10Z"",""last_modified_at"":""2023-05-16T07:15:40Z""}","false",【埼玉県】園庭・校庭を芝生化しませんか,「みどりいっぱいの園庭・校庭促進事業補助金」を利用する事業者を募集します,"[{""id"":""54"",""name"":""埼玉県"",""code"":""11"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:07:10Z"",""last_modified_at"":""2020-06-25T07:07:10Z""}}]",11-0000-2780,"[""1"",""2"",""3""]","* 認定こども園・幼稚園・保育園等を設置した団体の代表者又は市町村長
+* 小・中・高等学校等を設置した団体の代表者又は市町村長","下記の要件を満たす、新規の緑化事業
+
+* 埼玉県内の園庭・校庭で、50平方メートル以上の芝生化を新たに行うもの。
+* 工事（芝生化）着手前であるもの。
+* 補助金の交付決定後、令和６年３月末までに補助事業（工事全体額の支払を含む）が完了するもの。
+* 芝生化と合わせて植樹（１本以上）を実施するもの。
+* 指定の案内板
+
+","[{""id"":""11"",""name"":""埼玉県"",""region_name"":""関東・甲信越地方""}]","
+",埼玉県では、次世代を担う子どもたちが幼い頃からみどりと触れ合う環境を整えるため、認定こども園・幼稚園・保育園等の園庭、小・中・高等学校等の校庭の芝生化を推進しています。,"補助率及び補助限度額は、下図のとおりとします。
+
+![](https://jirei-seido-cdn.mirasapo-plus.go.jp/images/9e39a8b9-a42c-4c49-af64-08d643831b2f)
+※ 別途、経費区分ごとに上限額があります。詳細は下記のリンクから交付要綱及び募集要項をご覧ください。
+* [みどりいっぱいの園庭・校庭促進事業](https://www.pref.saitama.lg.jp/a0508/shibafu/index.html)
+","申請書及び必要な添付資料を、郵送、持参又は電子メールにより提出してください。
+申請書や募集要項等は下記のリンクからダウンロードいただけます。
+* [みどりいっぱいの園庭・校庭促進事業](https://www.pref.saitama.lg.jp/a0508/shibafu/index.html)
+",2023-04-01,2024-01-31,予算額に達し次第、募集を終了します。,"[{""title"":""緑化計画届出制度"",""url"":""https://www.pref.saitama.lg.jp/a0508/ryokukakeikakusyo.html""}]","埼玉県環境部みどり自然課ウェブサイト
+https://www.pref.saitama.lg.jp/a0508/shibafu/index.html",埼玉県環境部みどり自然課,"電話: 048-830-3147
+FAX: 048-830-4775
+電子メール: a3140-13@pref.saitama.lg.jp","[{""id"":""4"",""name"":""建設業"",""number"":""D"",""sub_categories"":[]}]","[{""id"":""1"",""name"":""事業計画"",""remarks"":""創業期""},{""id"":""6"",""name"":""事業計画・経営企画"",""remarks"":""成長期・成熟期""},{""id"":""7"",""name"":""設備投資"",""remarks"":""成長期・成熟期""},{""id"":""13"",""name"":""環境・省エネ"",""remarks"":""成長期・成熟期""},{""id"":""14"",""name"":""事業再生"",""remarks"":""転換期""},{""id"":""17"",""name"":""商業・地域・団体支援"",""remarks"":""商業・地域・団体支援""}]","[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]","[{""id"":""2"",""name"":""設備投資""}]",[],[],[],[],"[""緑化"",""工事"",""緑化補助"",""民間施設"",""埼玉県""]",,,,,,,,
 2770,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-05-08,2023-06-26,日本語,"{""created_at"":""2023-01-23T08:18:02Z"",""last_modified_at"":""2023-05-09T01:14:02Z""}","false",令和5年度長崎県農商工連携ファンド事業助成金（追加募集）,,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2748,"[""1"",""2""]","助成対象者
 （１）県内において創業（農林漁業を除く。）する者又は県内に主たる事業所を有する中小企業者と県内の農林漁業者との連携体
 （２）県内において自ら事業を行う特定非営利活動法人と県内の農林漁業者との連携体

@@ -1,4 +1,56 @@
 ﻿id,mng_groups,catalogs,publish_date,unpublish_date,language,update_info,has_case_studies,title,competent_authorities,number,business_scales,target,application_target,prefectures,summary,body,usage,reception_start_date,reception_end_date,related_supports,refernece,support_organization,inquiry,industry_categories,stage_categories,service_categories,purpose_categories,life_stage_categories,personal_service_categories,personal_purpose_categories,disasters,keywords,subtitle,reception_remarks,area,special_measure,application_url,governing_law,base_id,base_number,base_title,max_employees_count,base_override
+2809,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-06-28,2023-07-20,日本語,"{""created_at"":""2023-06-27T02:28:11Z"",""last_modified_at"":""2023-06-27T05:36:40Z""}","false",長崎県海洋エネルギー関連産業進出促進事業補助金,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2785,"[""1""]",原則、県内に本社又は事業拠点を有する企業３社以上により構成されるグループ等。 ※グループ等とは、任意の団体であるか否かにかかわらず、複数企業の集合体をいいます。,"海洋エネルギー関連産業の下記の分野における自らの受注獲得等に向けた自発的な取組を通じた需要の獲得と県内海洋エネルギー関連企業への波及効果が見込める事業計画（「海洋エネルギー関連産業進出促進事業計画」）を、所定の様式により県にご提出ください。
+（１）調査・計測関連 （２）設計・製造関連 （３）据付・施工関連 （４）メンテナンス関連 
+","[{""id"":""42"",""name"":""長崎県"",""region_name"":""九州・沖縄地方""}]","県では、海洋エネルギー関連産業に関する国内需要の獲得と県内サプライチェーンの形成を図るため、県内企業等の企業間連携による受注の獲得や販路の拡大に向けた自発的な取組を、「海洋エネルギー関連産業進出促進事業補助金」により支援します。
+支援に先立ち、「長崎県海洋エネルギー関連産業進出促進事業」の第2次募集を下記のとおり実施します。","認定を受けた企業に対して、次の助成制度等により支援します。 
+（１）対象経費：募集要項４頁の「補助対象経費一覧」をご参照ください。
+（２）補助率：２分の１以内 
+（３）補助限度額：１グループ 20,000千円 ※２年間の上限 ※ただし人件費は、補助金額の２分の１以内とします。","長崎県ウェブサイトから申請様式をダウンロードし、電子メール、郵送またはは持参によりお申込みください。
+※注1　電子メールの際は、メール送信後に県が確実に受信したかを、電話にてご確認ください。
+※注2　用紙サイズは、原則としてA4で統一してください。
+※注3　郵送及び持参にて提出する場合は、応募受付期間内に正本1部、副本5部の計6部を、左上1箇所でクリップ止め（ホッチキス止めは不可）してご提出ください。
+※注4　郵送の場合も7月20日（木）17時必着でお願いします。
+
+提出先
+〒850-8570 長崎市尾上町３-１ 
+長崎県産業労働部　新産業創造課 エネルギー産業振興班（担当：坂井、髙橋）
+電子メール：s05530@pref.nagasaki.lg.jp ",2023-06-16,2023-07-20,[],"[長崎県ウェブサイト](https://www.pref.nagasaki.jp/bunrui/shigoto-sangyo/kogyo-kagakugijutsu/kaiyouenergy/shinsyutuhojokin/605386.html)
+
+
+[募集要項](https://www.pref.nagasaki.jp/shared/uploads/2023/06/1686037430.pdf)
+
+
+[長崎県海洋エネルギー関連産業進出促進事業計画認定要領](https://www.pref.nagasaki.jp/shared/uploads/2023/04/1680592436.pdf)
+
+",長崎県,"長崎県産業労働部 新産業創造課 エネルギー産業振興班（担当：坂井、高橋）
+〒850－8570　長崎市尾上町3－1
+TEL：095-895-2695
+FAX：095-895-2544
+Eメール：s05530@pref.nagasaki.lg.jp",[],[],"[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]",[],[],[],[],[],"[""海洋エネルギー""]",,,,,,,,,,,
+2808,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-06-26,2023-08-31,日本語,"{""created_at"":""2023-06-26T04:36:50Z"",""last_modified_at"":""2023-06-27T00:58:43Z""}","false",長崎県特別高圧電力高騰対策支援事業費補助金,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2784,"[""1""]",建設業、製造業、情報通信業、卸売業、小売業、金融業、保険業、不動産業、物品賃貸業、学術研究、専門・技術サービス業、宿泊業、飲食サービス業、生活関連サービス業、娯楽業、サービス業（他に分類されないもの）に該当し、特別高圧電力を受電している長崎県内事業所。,特別高圧電力の価格高騰の影響を受けている県内事業者に対し、電気代高騰分の一部を支援します。,"[{""id"":""42"",""name"":""長崎県"",""region_name"":""九州・沖縄地方""}]",エネルギー等物価高騰の影響を受けている県内事業者等の負担軽減を図り、安定した経営環境の持続を促進するため、特別高圧電力受電事業者等を支援し、県内経済の振興を図ります。," 1事業者あたりの上限額を5,000万円とし、補助額は次により算出された額とします。ただし、算出額に1,000円未満の端数が生じた場合は、これを切り捨てるものとします。
+（1）令和5年4月から令和5年9月までの毎月の特別高圧電力量を対象とする。
+（2）電力量1kwhあたり1.8円を乗じた額（9月分については0.9円を乗じた額）と予算の範囲内で知事が必要と認めた額を比較して少ない方の額を補助額とする。
+※（1）の特別高圧電力使用量を含む、国、県、市町が実施する物価高騰分への支援補助と併用して交付を受けることはできません。
+※（1）の特別高圧電力使用量に、公共施設分や住宅分を含むことはできません。
+
+![](https://jirei-seido-cdn.mirasapo-plus.go.jp/images/811178fe-ee5e-44ad-ae40-8886fcbb8c26)","長崎県ウェブサイトから申請様式をダウンロードし、補助金交付申請書や所要額計算書（見込んだ手法等の別紙含む）、誓約書を作成し、チェックリストとともに必要な資料（特別高圧電力を受電していることを確認できる書類、県税や法人税の未納がない証明、直近の事業実績がわかる書類、登記簿謄本等、パートナーシップ構築宣言の写し）を添付して、郵送してください。
+※令和5年8月31日までに必着
+
+【郵送先】
+〒850+8570　長崎市尾上町3-1
+長崎県産業政策課　特別高圧電力高騰対策支援　受付係",2023-06-26,2023-08-31,[],"[長崎県ウェブサイト](https://www.pref.nagasaki.jp/object/tetsuduki-shinsei/tetsuduki-shinseikankei/615528.html)
+
+
+[申請要領](https://www.pref.nagasaki.jp/shared/uploads/2023/06/1687395857.pdf)
+
+
+[実施要綱](https://www.pref.nagasaki.jp/shared/uploads/2023/06/1687395966.pdf)
+
+
+[チラシ](https://www.pref.nagasaki.jp/shared/uploads/2023/06/1687516428.pdf)
+",長崎県,"長崎県産業政策課　特別高圧電力高騰対策支援　受付係
+電話：095-895-2614
+受付時間：9時から17時（平日のみ）",[],[],"[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]",[],[],[],[],[],"[""電力J高騰""]",,,,,,,,,,,
 2342,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-06-13,2023-08-04,日本語,"{""created_at"":""2022-02-21T02:44:48Z"",""last_modified_at"":""2023-06-13T02:00:40Z""}","false",サービス産業事業再構築支援事業費補助金（第4次追加募集）,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2319,"[""1"",""2"",""3""]","補助金の交付対象となる事業者（以下「補助対象者」という。）は、次の各号の全てを満たす者とする。 
 （１）中小企業者等であること。２者以上で構成するグループの場合は、その構成員が全て中小企業者等であること。
 （２）サービス産業（第３次産業）を営む事業者であること。または、２者以上で構成するグループの場合は、その構成員の過半数がサービス産業（第３次産業）を営む事 業者であること。 
@@ -1267,7 +1319,7 @@ URL:http://www.mhlw.go.jp/general/sosiki/chihou/
 URL：https://www.mhlw.go.jp/kouseiroudoushou/shozaiannai/roudoukyoku/index.html
 
 ※助成金の受給に当たっては、さまざまな要件がございます。詳しくは、事業所の所在地を管轄する労働局にお尋ねください。",[],"[{""id"":""3"",""name"":""雇用"",""remarks"":""創業期""},{""id"":""4"",""name"":""人材育成"",""remarks"":""創業期""},{""id"":""12"",""name"":""社会保障・福利厚生"",""remarks"":""成長期・成熟期""}]","[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[]}]","[{""id"":""5"",""name"":""人材""}]",[],[],[],[],"[""教育訓練"",""助成金"",""キャリア形成"",""建設"",""人開金""]",職業能力の開発と向上のための支援策を知りたい,,,,,,,,,,
-2688,"[""8392b543-027a-45ce-913c-55a642f3f182"",""f97592a3-5fcf-4db4-9fd3-1f0662779756""]","[{""id"":""50"",""name"":""2023年度版中小企業施策利用ガイドブック"",""image"":{""id"":""4382"",""name"":""2022gbook.png"",""mng_group"":""2fc6ed8b-b91d-4792-829a-99fe9e05691d"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a_thumb"",""update_info"":{""created_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""created_at"":""2022-04-11T07:30:05Z"",""last_modified_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""last_modified_at"":""2022-04-11T07:30:05Z""}},""published"":false,""update_info"":{""created_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""created_at"":""2022-12-12T15:23:01Z"",""last_modified_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""last_modified_at"":""2022-12-12T15:23:01Z""}},{""id"":""18"",""name"":""【経営サポート】"",""description"":""中小企業施策利用ガイドブック用"",""publisher"":""中小企業庁"",""image"":{""id"":""2065"",""name"":""guidebook2.png"",""mng_group"":""9af01523-f987-4d95-bb10-a50ee990b21e"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434_thumb"",""update_info"":{""created_by"":{},""created_at"":""2020-03-24T15:26:29Z"",""last_modified_by"":{},""last_modified_at"":""2020-03-24T15:26:29Z""}},""published"":false,""update_info"":{""created_by"":{},""created_at"":""2020-09-14T05:29:45Z"",""last_modified_by"":{},""last_modified_at"":""2020-12-14T13:42:47Z""}}]",2023-04-01,2024-03-31,日本語,"{""created_at"":""2022-12-12T16:22:33Z"",""last_modified_at"":""2023-01-05T11:24:05Z""}","false",認定職業訓練制度,"[{""id"":""21"",""name"":""厚生労働省"",""code"":""00009"",""kind"":""gov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-01-21T02:38:17Z"",""last_modified_at"":""2020-01-21T02:38:17Z""}}]",00000-0000-2665,"[""1"",""2""]",中小企業事業主または中小企業事業主団体　等,,[],事業主等の行う職業訓練のうち、教科、訓練期間、設備等について厚生労働省令で定める基準に適合して行われているものは、申請により訓練基準に適合している旨の認定を都道府県知事から受けることができます。この認定を受けた職業訓練を「認定職業訓練」といいます。,"認定職業訓練を行うことにより、人材育成の基盤がより強固になるとともに、企業イメージの向上、さらには従業員にとって働きやすく成長できる環境となり定着率の向上も期待できます。また、中小企業事業主等が認定職業訓練を行う場合、補助要件を満たせば都道府県からその訓練経費等の一部について、補助を受けることができます。
+2688,"[""f97592a3-5fcf-4db4-9fd3-1f0662779756"",""8392b543-027a-45ce-913c-55a642f3f182""]","[{""id"":""50"",""name"":""2023年度版中小企業施策利用ガイドブック"",""image"":{""id"":""4382"",""name"":""2022gbook.png"",""mng_group"":""2fc6ed8b-b91d-4792-829a-99fe9e05691d"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a_thumb"",""update_info"":{""created_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""created_at"":""2022-04-11T07:30:05Z"",""last_modified_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""last_modified_at"":""2022-04-11T07:30:05Z""}},""published"":false,""update_info"":{""created_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""created_at"":""2022-12-12T15:23:01Z"",""last_modified_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""last_modified_at"":""2022-12-12T15:23:01Z""}},{""id"":""18"",""name"":""【経営サポート】"",""description"":""中小企業施策利用ガイドブック用"",""publisher"":""中小企業庁"",""image"":{""id"":""2065"",""name"":""guidebook2.png"",""mng_group"":""9af01523-f987-4d95-bb10-a50ee990b21e"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434_thumb"",""update_info"":{""created_by"":{},""created_at"":""2020-03-24T15:26:29Z"",""last_modified_by"":{},""last_modified_at"":""2020-03-24T15:26:29Z""}},""published"":false,""update_info"":{""created_by"":{},""created_at"":""2020-09-14T05:29:45Z"",""last_modified_by"":{},""last_modified_at"":""2020-12-14T13:42:47Z""}}]",2023-04-01,2024-03-31,日本語,"{""created_at"":""2022-12-12T16:22:33Z"",""last_modified_at"":""2023-01-05T11:24:05Z""}","false",認定職業訓練制度,"[{""id"":""21"",""name"":""厚生労働省"",""code"":""00009"",""kind"":""gov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-01-21T02:38:17Z"",""last_modified_at"":""2020-01-21T02:38:17Z""}}]",00000-0000-2665,"[""1"",""2""]",中小企業事業主または中小企業事業主団体　等,,[],事業主等の行う職業訓練のうち、教科、訓練期間、設備等について厚生労働省令で定める基準に適合して行われているものは、申請により訓練基準に適合している旨の認定を都道府県知事から受けることができます。この認定を受けた職業訓練を「認定職業訓練」といいます。,"認定職業訓練を行うことにより、人材育成の基盤がより強固になるとともに、企業イメージの向上、さらには従業員にとって働きやすく成長できる環境となり定着率の向上も期待できます。また、中小企業事業主等が認定職業訓練を行う場合、補助要件を満たせば都道府県からその訓練経費等の一部について、補助を受けることができます。
 
 各都道府県の定めるところにより、認定職業訓練を実施するために必要な次の経費が補助対象となります。
 * 運営費・・・指導員や講師の謝金、教科書に要する経費等
@@ -1280,7 +1332,7 @@ URL：https://www.mhlw.go.jp/kouseiroudoushou/shozaiannai/roudoukyoku/index.html
 各都道府県の窓口一覧は、以下のURLをご覧ください。または、厚生労働省ウェブサイト内で「認定職業訓練」を検索してください。
 URL：https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/jinzaikaihatsu/training_employer/nintei/index.html
 ",[],"[{""id"":""3"",""name"":""雇用"",""remarks"":""創業期""},{""id"":""4"",""name"":""人材育成"",""remarks"":""創業期""}]","[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[]}]","[{""id"":""5"",""name"":""人材""}]",[],[],[],[],"[""職業訓練"",""認定職業訓練"",""運営費"",""補助""]",企業内訓練に関する支援策を知りたい,,,,,,,,,,
-2689,"[""f97592a3-5fcf-4db4-9fd3-1f0662779756"",""8392b543-027a-45ce-913c-55a642f3f182""]","[{""id"":""50"",""name"":""2023年度版中小企業施策利用ガイドブック"",""image"":{""id"":""4382"",""name"":""2022gbook.png"",""mng_group"":""2fc6ed8b-b91d-4792-829a-99fe9e05691d"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a_thumb"",""update_info"":{""created_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""created_at"":""2022-04-11T07:30:05Z"",""last_modified_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""last_modified_at"":""2022-04-11T07:30:05Z""}},""published"":false,""update_info"":{""created_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""created_at"":""2022-12-12T15:23:01Z"",""last_modified_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""last_modified_at"":""2022-12-12T15:23:01Z""}}]",2023-04-01,,日本語,"{""created_at"":""2022-12-12T16:22:33Z"",""last_modified_at"":""2023-01-20T11:43:48Z""}","false",若年技能者人材育成支援等事業（ものづくりマイスター制度）,"[{""id"":""21"",""name"":""厚生労働省"",""code"":""00009"",""kind"":""gov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-01-21T02:38:17Z"",""last_modified_at"":""2020-01-21T02:38:17Z""}}]",00000-0000-2666,"[""1""]","**製造業・建設業等を営む中小企業
+2689,"[""8392b543-027a-45ce-913c-55a642f3f182"",""f97592a3-5fcf-4db4-9fd3-1f0662779756""]","[{""id"":""50"",""name"":""2023年度版中小企業施策利用ガイドブック"",""image"":{""id"":""4382"",""name"":""2022gbook.png"",""mng_group"":""2fc6ed8b-b91d-4792-829a-99fe9e05691d"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a_thumb"",""update_info"":{""created_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""created_at"":""2022-04-11T07:30:05Z"",""last_modified_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""last_modified_at"":""2022-04-11T07:30:05Z""}},""published"":false,""update_info"":{""created_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""created_at"":""2022-12-12T15:23:01Z"",""last_modified_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""last_modified_at"":""2022-12-12T15:23:01Z""}}]",2023-04-01,,日本語,"{""created_at"":""2022-12-12T16:22:33Z"",""last_modified_at"":""2023-01-20T11:43:48Z""}","false",若年技能者人材育成支援等事業（ものづくりマイスター制度）,"[{""id"":""21"",""name"":""厚生労働省"",""code"":""00009"",""kind"":""gov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-01-21T02:38:17Z"",""last_modified_at"":""2020-01-21T02:38:17Z""}}]",00000-0000-2666,"[""1""]","**製造業・建設業等を営む中小企業
 
 ### 対象職種
 ○製造系職種･･･製造・建設技能111職種（機械加工、建築大工、造園など）
@@ -2218,6 +2270,61 @@ https://www.chusho.meti.go.jp/shogyo/shogyo/2023/230524kino_fukugo.html",2023-05
 また、申請前に必ず岐阜県企業誘致課までお問い合わせください。",,,[],https://www.pref.gifu.lg.jp/page/9589.html,岐阜県商工労働部企業誘致課,"電話：（058）272‐8370
 メール：c11342@pref.gifu.lg.jp
 ",[],[],"[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]","[{""id"":""2"",""name"":""設備投資""}]",[],[],[],[],"[""研究所"",""工場""]",,,,,,,,,,,
+2747,"[""184eaa18-3e99-4aa6-b220-121c392df179""]","[{""id"":""23"",""name"":""【商業・地域サポート】"",""publisher"":""中小企業庁"",""image"":{""id"":""2065"",""name"":""guidebook2.png"",""mng_group"":""9af01523-f987-4d95-bb10-a50ee990b21e"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434_thumb"",""update_info"":{""created_by"":{},""created_at"":""2020-03-24T15:26:29Z"",""last_modified_by"":{},""last_modified_at"":""2020-03-24T15:26:29Z""}},""published"":false,""update_info"":{""created_by"":{},""created_at"":""2020-12-14T13:35:53Z"",""last_modified_by"":{},""last_modified_at"":""2020-12-14T13:42:34Z""}},{""id"":""50"",""name"":""2023年度版中小企業施策利用ガイドブック"",""image"":{""id"":""4382"",""name"":""2022gbook.png"",""mng_group"":""2fc6ed8b-b91d-4792-829a-99fe9e05691d"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/d9e0d8a8-abf1-49c1-af70-3102ae96828a_thumb"",""update_info"":{""created_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""created_at"":""2022-04-11T07:30:05Z"",""last_modified_by"":{""id"":""22643983-0fe8-40c2-a77b-8f6836032ea4"",""name"":""kiyono-o@kpnet.co.jp""},""last_modified_at"":""2022-04-11T07:30:05Z""}},""published"":false,""update_info"":{""created_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""created_at"":""2022-12-12T15:23:01Z"",""last_modified_by"":{""id"":""21ae71d5-8b7d-4983-aabf-2de50a5d2135"",""name"":""yamakawam@nttdata-strategy.com""},""last_modified_at"":""2022-12-12T15:23:01Z""}}]",2023-02-08,,日本語,"{""created_at"":""2022-12-26T04:52:47Z"",""last_modified_at"":""2023-06-27T05:59:30Z""}","false",面的地域価値の向上・消費創出事業,"[{""id"":""28"",""name"":""中小企業庁"",""code"":""00011-03"",""kind"":""gov"",""level"":2,""deletable"":false,""update_info"":{""created_at"":""2020-01-21T02:38:17Z"",""last_modified_at"":""2020-01-21T02:38:17Z""}}]",00000-0000-2725,[],"### 商店街等組織（※1）、または商店街等組織と民間事業者（※2）の連携体
+※1．商店街等組織
+・商店街振興組合、事業協同組合等において組織される法人格を持った商店街等組織
+・法人化されていない任意の商店街等組織であって、規約等により代表者の定めがあり、財産の管理等を適正に行うことができる者等
+※2．民間事業者
+・当該地域のまちづくりや商業活性化の担い手として事業に取り組むことができる者であり、定款等に代表者の定めがあり、財産の管理等を適正に行うことができる者",,[],"コロナ禍による来街者ニーズの多様化や、足元の円安メリットを活かしたインバウンドの回復等が期待される中、商店街等が自らの魅力・地域資源等を用いて実施する滞留・交流空間整備や消費創出事業等を支援します。
+その際、地域活性化等の知見を有する専門家が伴走し、事業実施中における定期的な効果測定及びそれに基づくアドバイス等を重ねることで、地域の面的な「稼ぐ力」の向上に繋げます。","　**①専門家活用費用**
+　　・面的伴走支援を担う専門家の謝金・旅費　など
+　**②消費創出事業**
+　　・回遊促進事業、体験事業、交流事業、ブランディング、情報発信強化　など
+　**③滞留・交流空間整備事業**
+　　・空き地・空き店舗の利活用、店舗等の機能転換、歩道等の利活用、
+　　　景観整備（統一化）　など
+　※①及び②が事業計画に含まれていることが必須要件。
+
+
+ 
+ ＜補助率等＞
+![](https://jirei-seido-cdn.mirasapo-plus.go.jp/images/58186cec-f60d-45e4-a0d6-f6ab42cf9ee4)
+","（1）募集期間中に、経済産業局等へ応募申請書等の関係書類を提出
+（2）外部有識者による審査委員会での審査を経て、採択案件を決定
+（3）採択された補助事業者は、交付申請書を経済産業局等へ提出し、交付決定後、消費創出事業等を開始
+（4）消費創出事業等の終了後、実績報告書を経済産業局等へ提出し、補助金を受給
+
+＜中小企業庁HP＞
+令和4年度第2次補正予算「面的地域価値の向上・消費創出事業」の三次募集を開始します
+https://www.chusho.meti.go.jp/shogyo/shogyo/2023/230626menteki.html",2023-06-26,2023-08-09,[],,,"* 北海道経済産業局　経営支援課商業振興室
+電話：011-738-3236
+
+* 東北経済産業局　商業・流通サービス産業課
+電話：022-221-4914
+
+* 関東経済産業局　流通・サービス産業課　商業振興室
+電話：048-600-0317
+
+* 中部経済産業局　流通・サービス産業課　商業振興室
+電話：052-951-0597
+
+* 近畿経済産業局　流通・サービス産業課
+電話：06-6966-6025
+
+* 中国経済産業局　流通・サービス産業課
+電話：082-224-5655
+
+* 四国経済産業局　商務・流通産業課
+電話：087-811-8524
+
+* 九州経済産業局　流通・サービス産業課
+電話：092-482-5456
+
+* 内閣府沖縄総合事務局　商務通商課
+電話：098-866-1731
+
+* 中小企業庁　商業課
+電話：03-3501-1929",[],"[{""id"":""17"",""name"":""商業・地域・団体支援"",""remarks"":""商業・地域・団体支援""}]","[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]",[],[],[],[],[],"[""商店街"",""まちづくり"",""地域資源"",""域外需要""]",,,,,https://www.jgrants-portal.go.jp/,,,,,,
 2776,"[""44143d40-1258-406b-aa1e-d3a0d9104b87""]","[{""id"":""18"",""name"":""【経営サポート】"",""description"":""中小企業施策利用ガイドブック用"",""publisher"":""中小企業庁"",""image"":{""id"":""2065"",""name"":""guidebook2.png"",""mng_group"":""9af01523-f987-4d95-bb10-a50ee990b21e"",""url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434"",""thumbnail_url"":""https://jirei-seido-cdn.mirasapo-plus.go.jp/images/835bb5a9-9104-48f3-b541-38dc4dc8a434_thumb"",""update_info"":{""created_by"":{},""created_at"":""2020-03-24T15:26:29Z"",""last_modified_by"":{},""last_modified_at"":""2020-03-24T15:26:29Z""}},""published"":false,""update_info"":{""created_by"":{},""created_at"":""2020-09-14T05:29:45Z"",""last_modified_by"":{},""last_modified_at"":""2020-12-14T13:42:47Z""}}]",2023-02-01,2027-04-01,日本語,"{""created_at"":""2023-01-27T06:29:08Z"",""last_modified_at"":""2023-01-27T06:43:34Z""}","false",福岡県経営強化改善提案制度,"[{""id"":""83"",""name"":""福岡県"",""code"":""40"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:12:56Z"",""last_modified_at"":""2020-06-25T07:12:56Z""}}]",40-0000-2754,"[""1"",""2"",""3""]","　
  　●A方式（直接申込）　①と②の条件を満たす方
 

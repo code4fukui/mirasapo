@@ -1,4 +1,35 @@
 ﻿id,mng_groups,catalogs,publish_date,unpublish_date,language,update_info,has_case_studies,title,competent_authorities,number,business_scales,target,application_target,prefectures,summary,body,usage,reception_start_date,reception_end_date,related_supports,refernece,support_organization,inquiry,industry_categories,stage_categories,service_categories,purpose_categories,life_stage_categories,personal_service_categories,personal_purpose_categories,disasters,keywords,subtitle,area,reception_remarks,special_measure,application_url,governing_law,base_id,base_number,base_title,max_employees_count,base_override
+2816,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-07-24,2023-09-15,日本語,"{""created_at"":""2023-07-24T01:13:51Z"",""last_modified_at"":""2023-07-24T01:39:17Z""}","false",長崎県産業廃棄物リサイクル施設整備促進事業補助金,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2792,"[""1"",""2""]","  • 産業廃棄物の排出事業者
+  • 産業廃棄物処理業者
+ただし、以下の要件を全て満たす者に限る。
+(1) 自己又は自社の役員等が、廃棄物の処理及び清掃に関する法律（昭和45年法律第137号。以下「廃棄物処理法」という。）第14条第5項第2号に規定する欠格要件に該当する者でないこと。
+(2) 前号に掲げる者が、その経営に実質的に関与している法人その他の団体又は個人でないこと。
+(3) リサイクルを実施するための適切な知識及び技能並びに経理的基礎を有していること。
+(4) 過去5年以内に廃棄物処理法の違反がないこと。","対象事業
+・県内の事業所において、排出事業者が自らの製造工程や処理方法等の改善・新設・増設によ って、産業廃棄物のリサイクルを促進するための施設整備事業 ・県内の事業所において、産業廃棄物処理業者が行う中間処理により発生する残さを、処理方 法等の改善・新設・増設により、自らリサイクルを促進する事業 など
+
+対象経費
+対象事業の実施に係る工事費および設備費等",[],産業廃棄物の排出抑制、減量化及びリサイクルの促進に資する施設の導入及び改修費用の一部を補助します。,"・補助率：対象経費の2分の1以内
+・補助額：1件あたり上限1,000万円
+※ただし、令和5年度予算3,000万円の範囲内での採択となります。
+","長崎県ウェブサイトから交付申請書（様式第１号）をダウンロードし、必要書類を添えて提出してください。
+※申請にあたっては、必ず事前相談してください。事前相談がない場合の申請は受付できません。
+※予算の範囲内での交付決定となりますので、申請者が多数に及ぶ場合は、選定させていただきます。
+
+提出先
+〒850-8570　長崎市尾上町3-1
+長崎県　県民生活環境部　資源循環推進課　循環型社会推進班
+E-mail：s16100@pref.nagasaki.lg.jp
+",2023-08-01,2023-09-15,[],"[長崎県ウェブサイト](https://www.pref.nagasaki.jp/bunrui/kurashi-kankyo/haikibutsu-recycle/gomizero/industrialwasterecyclinginstitutionsetuppromotionsubsidy/)
+
+[募集要領](https://www.pref.nagasaki.jp/shared/uploads/2023/07/1689820647.pdf)
+
+[実施要綱](https://www.pref.nagasaki.jp/shared/uploads/2023/04/1680662949.pdf)
+
+",長崎県,"長崎県　県民生活環境部　資源循環推進課 循環型社会推進班
+TEL：095-895-2373（直通）
+FAX：095-824-4781
+E-mail：s16100@pref.nagasaki.lg.jp",[],[],"[{""id"":""3"",""name"":""給付 ・補助金"",""sub_categories"":[{""id"":""13"",""name"":""補助金""}]}]",[],[],[],[],[],"[""リサイクル""]",,,,,,,,,,,
 2815,"[""08597d85-4e0b-4d25-a541-ed53bbfda60b""]",[],2023-07-20,2023-09-29,日本語,"{""created_at"":""2023-07-20T04:12:00Z"",""last_modified_at"":""2023-07-20T04:39:46Z""}","false",令和5年度水産業デジタル力向上支援事業費補助金,"[{""id"":""85"",""name"":""長崎県"",""code"":""42"",""kind"":""lgov"",""level"":1,""deletable"":false,""update_info"":{""created_at"":""2020-06-25T07:13:16Z"",""last_modified_at"":""2020-06-25T07:13:16Z""}}]",42-0000-2791,"[""1"",""2""]","県内に主たる事務所、事業所を置いて事業を実施する、県税に未納のない次に掲げる者を対象とします。　
 （1）漁業者・養殖業者（漁業協同組合の正組合員）、水産加工業者、魚市場取引参加者（卸売業者（県の認定外含む）、買受人）、種苗生産業者、水産業協同組合（漁業協同組合、漁業協同組合連合会、水産加工業協同組合、中小企業等協同組合に基づく法人（水産加工業者に限る）及びこれらに準じるものとして知事が特に支援が必要と認める団体
 （2）（1）で構成される、代表者の定めのあるグループ","人材育成とデジタル機器等の導入に要する経費を幅広く支援します。

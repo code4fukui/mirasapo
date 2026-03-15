@@ -1,4 +1,7 @@
 # mirasapo
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A project that provides access to support systems published on the ミラサポplus制度ナビ platform.
 
 ## Features

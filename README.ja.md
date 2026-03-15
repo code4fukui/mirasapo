@@ -2,17 +2,12 @@
 
 ミラサポplus制度ナビで公開されている支援制度の情報をCSVやJSONで提供するリポジトリです。
 
-## デモ
-- https://code4fukui.github.io/mirasapo/
-
 ## 機能
 - 支援制度の情報をCSVやJSONで取得できます
 - 支援制度の一覧をブラウザ上で閲覧できます
 
-## 必要環境
-特に必要ありません。
-
 ## 使い方
+
 ### CSV
 ```html
 <script type="module">

@@ -1,11 +1,16 @@
-# mirasapo - ミラサポplus制度ナビで公開されている支援制度
+# mirasapo
+A project that provides access to support systems published on the ミラサポplus制度ナビ platform.
 
-- https://code4fukui.github.io/mirasapo/
+## Features
+- Provides CSV and JSON data on various support systems
+- Automatically updates the data daily through a GitHub Actions workflow
+
+## Data / API
+The data is sourced from the [支援制度 - データセット - レジストリカタログ](https://catalog.registries.digital.go.jp/rc/dataset/ms000002) dataset.
 
 ## Usage
 
 ### CSV
-
 ```html
 <script type="module">
 import { CSV } from "https://js.sabae.cc/CSV.js";
@@ -16,7 +21,6 @@ console.log(data);
 ```
 
 ### JSON
-
 ```html
 <script type="module">
 const data = await (await fetch("https://code4fukui.github.io/mirasapo/supports.json")).json();
@@ -24,6 +28,5 @@ console.log(data);
 </script>
 ```
 
-## データ出展
-
-- [支援制度 - データセット - レジストリカタログ](https://catalog.registries.digital.go.jp/rc/dataset/ms000002)
+## License
+MIT License

@@ -18,8 +18,8 @@
 データは[支援制度 - データセット - レジストリカタログ](https://catalog.registries.digital.go.jp/rc/dataset/ms000002)から取得しており、[公式のデータ定義](https://app.swaggerhub.com/apis/JPSMEA/api-search-case-and-assistance-data/4.0#/Support)に準拠しています。
 
 生データファイルには直接アクセスできます:
-- **CSV**: `https://code4fukui.github.io/mirasapo/supports.csv`
-- **JSON**: `https://code4fukui.github.io/mirasapo/supports.json`
+- **CSV**: `https://github.com/code4fukui/mirasapo
+- **JSON**: `https://github.com/code4fukui/mirasapo
 
 ### CSVデータの利用方法
 

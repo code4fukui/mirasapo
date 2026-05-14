@@ -20,8 +20,8 @@ Provides CSV and JSON data for support systems from Japan's ミラサポplus制�
 The data is sourced from the [支援制度 - データセット - レジストリカタログ](https://catalog.registries.digital.go.jp/rc/dataset/ms000002) and follows the [official data definition](https://app.swaggerhub.com/apis/JPSMEA/api-search-case-and-assistance-data/4.0#/Support).
 
 You can access the raw data files directly:
-- **CSV**: `https://code4fukui.github.io/mirasapo/supports.csv`
-- **JSON**: `https://code4fukui.github.io/mirasapo/supports.json`
+- **CSV**: `https://github.com/code4fukui/mirasapo
+- **JSON**: `https://github.com/code4fukui/mirasapo
 
 ### Using the CSV Data
 
